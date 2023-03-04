@@ -14,3 +14,22 @@
   background-color: orange;
   font-size: 1.5rem;
 }
+
+.index {
+  display: flex;
+  align-items: center;
+  font-size: 2rem;
+  color: white;
+  background-color: green;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-radius: 0.5rem 0 0 0.5rem;
+}
+
+.person {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 0 0.5rem 0.5rem 0;
+  width: 100%;
+}
